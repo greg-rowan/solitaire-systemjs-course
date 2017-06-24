@@ -6,9 +6,6 @@ node {
     //git branch: 'jenkins2-course', 
     //    url: 'https://github.com/g0t4/solitaire-systemjs-course'
 
-    sh 'npm install phantomjs -g'
-    sh 'npm install karma-phantomjs-launcher -g'
-
     // pull dependencies from npm
     // on windows use: bat 'npm install'
     sh 'npm install'
