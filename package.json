@@ -11,6 +11,7 @@
     "eslint": "^1.5.1",
     "http-server": "^0.8.4",
     "jasmine-core": "^2.3.4",
+    "phantomjs": "^2.1.7",
     "karma": "~0.13",
     "karma-phantomjs-launcher": "^1.0.4",
     "karma-chrome-launcher": "^0.2.0",
